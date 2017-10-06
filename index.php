@@ -400,8 +400,7 @@ $(document).ready(function(){
     		</div>
     		<div class="clearfix"> </div>
     		<div class="copy">
-		      <p>Copyright © 2015 Marital . All Rights Reserved  | Design by <a href="http://Make My Love
-.com/" target="_blank">Make My Love
+		      <p>Copyright © 2015 Marital . All Rights Reserved  | Design by <a href="http://Swadeshirishta.com/" target="_blank">Swadeshi Rishta
 </a> </p>
 	        </div>
     	</div>
